@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keerthijk193.github.io/keerthi-portfolio/
