@@ -245,7 +245,7 @@ export const PROJECTS: Project[] = [
       { label: "Unit Tests", value: "209 Passed" },
       { label: "DB Smoke Checks", value: "41 Automated" }
     ],
-    githubUrl: "https://github.com/keerthijk193",
+    githubUrl: "https://github.com/keerthijk193/Enterprise-Employee-Analytics_final",
     featured: true
   },
   {
@@ -317,7 +317,7 @@ export const PROJECTS: Project[] = [
       { label: "Storage", value: "SQLite + Mongo" },
       { label: "Validation", value: "Custom Exceptions" }
     ],
-    githubUrl: "https://github.com/keerthijk193",
+    githubUrl: "https://github.com/keerthijk193/Employee_Performance_Tracker",
     featured: false
   },
   {
